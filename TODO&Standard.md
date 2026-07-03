@@ -57,8 +57,8 @@
 - cradle/沉梦水篮
 
 - Georg Ferdinand Mauer/格奥尔格·费迪南德·莫尔
-- Saint Adelina/圣者阿德琳娜
-- Saint Jerome/圣者杰罗姆
+- Saint Adelina/圣阿德琳娜
+- Saint Jerome/圣杰罗姆
 - Dr. West/韦斯特博士
 - Dr. Randolph Carter/伦道夫·卡特
 - Carter's "The Gate and the Key"/卡特的《门与钥匙》
