@@ -31,6 +31,10 @@
 - [x] multiblock - power
 - [x] reminiscence
 - [x] research（不含 research.thesis）
+  - Merciful God, please,\\1don’t let me drown. 慈悲的神，求你，\\1不要将我溺死。
+  - 这里有个用字的区别：“让”和“将”。“让”指“通常会溺死但是相信神明可以得到拯救”，“将”指“通常不会溺死但神明会使不信者死亡”。考虑到这神是克总，我们改成后者。
+  - Before There Was Light 在有光之前
+  - 注意这个标题不是“Before the Light”，因此不能翻译成“光明到来之前”。NIV Genesis 1:3 And God said, “Let there be light,” and there was light. 和合本修订版中，这句话的翻译是“神说：‘要有光’，就有了光。“因此这个标题翻译成“在有光之前”。
 - [ ] research.thesis 《Sanguis: Inter Vitam et Mortem》，该死的论文
 - [x] roar - worship
 - [ ] 记得补充字体 Source Han Serif
@@ -59,6 +63,6 @@
 - Dr. Randolph Carter/伦道夫·卡特
 - Carter's "The Gate and the Key"/卡特的《门与钥匙》
 - Nautilus/鹦鹉螺：注意别翻译成鹦鹉螺号了
-- the Miskatonic University in Arkham /阿卡姆米斯卡塔尼克大学
+- the Miskatonic University in Arkham /阿卡姆密斯卡托尼克大学
 - Arkham Sanitarium/阿卡姆疗养院
 
