@@ -67,4 +67,11 @@
 - Nautilus/鹦鹉螺：注意别翻译成鹦鹉螺号了
 - the Miskatonic University in Arkham /阿卡姆密斯卡托尼克大学
 - Arkham Sanitarium/阿卡姆疗养院
+- Outsider/外乡人
+- kin/同类
+- communed/共鸣
+- Greeting/向你问好
+- Farewell/告辞
+  - 岸民使用一种独特的打招呼方式，他们在见面时候使用 Greeting，告别时使用 Farewell。
+
 
