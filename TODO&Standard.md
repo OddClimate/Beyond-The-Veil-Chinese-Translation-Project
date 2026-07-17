@@ -14,14 +14,16 @@
   - [x] Less what-cious? 应该怎么翻译？ You are less loquacious than last time.
 - [ ] dialogue.shoreman_lighthouse_keeper （看守）
 - [ ] dialogue.shoreman_scholar 岸民学者，1.20.1 新增的重要角色。
-- [ ] doskill
-- [ ] dreams
+- [x] doskill
+- [x] dreams
 - [ ] dweller
-- [ ] effect - entity
-- [ ] exchange
-- [ ] fletum - fluid_type
+- [x] effect - entity
+- [x] exchange
+- [x] fletum - fluid_type
 - [ ] gui
-  - [ ] gui.tablet 应该是没有变化的，但是不知道是不是进度不够我没法测试，怪
+- [x] gui.dagon.x 这段文言翻译实属难办，我发现先前的翻译zh.cn.lang中，译者将ye译为了“汝”，可“汝”应该是平辈对彼此的称呼，
+      而“尔”表上对下的称呼，更能体现dagon海洋之父的地位。但在此还是将其译为“汝”，看看后续是否还需作调整
+  - [x] gui.tablet 应该是没有变化的，但是不知道是不是进度不够我没法测试，怪
 - [x] hit - ictya 渊鱼记录应该是完全一致的
 - [x] interact
   - [ ] interact.surgeon.bad_be_location_bed 这四个提示都异常拗口，需要结合游戏内机制翻译。
