@@ -1,10 +1,13 @@
 # 翻译检查列表
 - [x] angry - beginning
 - [x] block
+  - [ ] 新增条目：crafting
 - [x] building
 - [x] canoe - correspondence
+  - [ ] 新增条目：shift_right_click_air
 - [x] dagon - deity
-- [x] dialogue.black_mirror 黑镜
+- [ ] dialogue.black_mirror 黑镜
+  - [ ] 草，白写了
 - [x] dialogue.blood_cultist 莫尔博士
 - [x] dialogue.drowned 应该是洗礼的时候大衮与玩家的对话
 - [x] dialogue.shoreman 各种岸民
@@ -13,6 +16,7 @@
 - [x] dialogue.shoreman_drunk 酒鬼，翻译杀手
   - [x] Less what-cious? 应该怎么翻译？ You are less loquacious than last time.
 - [ ] dialogue.shoreman_lighthouse_keeper （看守）
+  - [ ] 新增条目
 - [ ] dialogue.shoreman_scholar 岸民学者，1.20.1 新增的重要角色。
 - [x] doskill
 - [x] dreams
@@ -21,13 +25,18 @@
 - [x] exchange
 - [x] fletum - fluid_type
 - [ ] gui
-- [x] gui.dagon.x 这段文言翻译实属难办，我发现先前的翻译zh.cn.lang中，译者将ye译为了“汝”，可“汝”应该是平辈对彼此的称呼，
-      而“尔”表上对下的称呼，更能体现dagon海洋之父的地位。但在此还是将其译为“汝”，看看后续是否还需作调整
+  - [x] gui.dagon.x 这段文言翻译实属难办，我发现先前的翻译zh.cn.lang中，译者将ye译为了“汝”，可“汝”应该是平辈对彼此的称呼，而“尔”表上对下的称呼，更能体现dagon海洋之父的地位。但在此还是将其译为“汝”，看看后续是否还需作调整
   - [x] gui.tablet 应该是没有变化的，但是不知道是不是进度不够我没法测试，怪
+  - [ ] 新增条目
+  - [ ] 变化条目：都是憎恶相关的，头大
+    - [ ] gui.journal.overview.modifiers.text
+    - [ ] gui.journal.overview.priorities.text
+    - [ ] gui.journal.overview.triggering.text
 - [x] hit - ictya 渊鱼记录应该是完全一致的
 - [x] interact
   - [ ] interact.surgeon.bad_be_location_bed 这四个提示都异常拗口，需要结合游戏内机制翻译。
 - [x] item
+  - [ ] 新增条目：crafting
 - [x] memory - message
 - [x] mirror 黑镜的对话与 1.12.2 应该是完全一致的
 - [x] multiblock - power
@@ -37,7 +46,10 @@
   - 这里有个用字的区别：“让”和“将”。“让”指“通常会溺死但是相信神明可以得到拯救”，“将”指“通常不会溺死但神明会使不信者死亡”。考虑到这神是克总，我们改成后者。
   - Before There Was Light 在有光之前
   - 注意这个标题不是“Before the Light”，因此不能翻译成“光明到来之前”。NIV Genesis 1:3 And God said, “Let there be light,” and there was light. 和合本修订版中，这句话的翻译是“神说：‘要有光’，就有了光。“因此这个标题翻译成“在有光之前”。
+  - [ ] 新增条目：research.SNIPPET_OF_TRUTH
 - [ ] research.thesis 《Sanguis: Inter Vitam et Mortem》，该死的论文
+  - [ ] 新增条目：research.thesis.ritual
+
 - [x] roar - worship
 - [ ] 记得补充字体 Source Han Serif
 
@@ -73,5 +85,4 @@
 - Greeting/向你问好
 - Farewell/告辞
   - 岸民使用一种独特的打招呼方式，他们在见面时候使用 Greeting，告别时使用 Farewell。
-
 
