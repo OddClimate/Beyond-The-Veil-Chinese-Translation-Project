@@ -7,9 +7,10 @@
 - `lang`: 1.12.2 的翻译文件，可供标准译名对照与翻译风格参考
 - `en_us.json`: 英文语言文件
 - `zh_cn.json`: 中文语言文件，翻译目标
-- `M.py`: 一个简单的增补翻译键的脚本。
+- `Check.py`: 一个简单的增补翻译键的脚本。
+- `merge.py`：一般简单的从最新英文语言文件同步翻译键的脚本。
 - `TODO&Standard.md`: 当前校对进度表、标准译名表。
-- `beyondtheveil-0.4.0.jar`: 可供测试的模组文件，需要补充 Terrablender 和 CuriosAPI
+- `beyondtheveil-0.4.0.jar`: 可供测试的模组文件，需要补充 Terrablender 和 CuriosAPI。当前提供版本为 [Blackjack dream items now knock out villagers · valeriotor/Beyond-The-Veil@ce8dfdb](https://github.com/valeriotor/Beyond-The-Veil/commit/ce8dfdbca00d956516c23de989d45bd138ee6867)。
 
 ## 注意事项
 
